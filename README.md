@@ -13,8 +13,8 @@ Alexis Marrero-Deans
 This assignment is used to calculate which tax bracket you will be on depending on the imputted numbers.
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+
+http://alexismarrero.me/lesson5_javascript2/index.html
 
 ### Lessons Learned in the Assignment:
 1. If/else statements executes only one action if the condition is true and a different action if the condition is false.
